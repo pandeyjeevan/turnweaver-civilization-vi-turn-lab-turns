@@ -1,0 +1,41 @@
+{
+  "id": 10,
+  "category": "game-offline",
+  "slug": "civilization-vi-turn-lab",
+  "target": "Sid Meier's Civilization VI",
+  "appid": "289070",
+  "summaryRu": "Проект лаборатории одиночных сценариев экономики и развития по ходам.",
+  "features": [
+    "Turn economy worksheets",
+    "Technology route comparisons",
+    "Ruleset compatibility notes"
+  ],
+  "title": "TurnWeaver — Sid Meier's Civilization VI — Turns",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "TurnWeaver",
+  "repositoryName": "turnweaver-civilization-vi-turn-lab-turns",
+  "githubTopics": [
+    "sid-meiers-civilization-vi",
+    "turn-planning",
+    "economy-planning",
+    "ruleset-notes",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "turns"
+}
